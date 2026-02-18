@@ -71,22 +71,23 @@ I enjoy designing systems that scale, are observable, and are easy to maintain.
 
 ---
 
-## 📌 Featured Work
-- 🔐 **Auth & Identity Services**  
+## 🏗️ Architecture Highlights (Production-Grade Systems)
+
+Below are real-world system designs I have worked on, including security,
+scalability, and cloud deployment considerations.
+
+- 🔐 **Authentication & Identity Platform**  
   OAuth2, JWT, Redis, Spring Security  
-  🔗 Repo: https://github.com/satishlabs/auth-service  
+  👉 Architecture Diagram: https://github.com/satishlabs/auth-service/blob/main/docs/architecture.png
 
 - 📦 **Microservices Platform (Saga Pattern)**  
   Kafka, API Gateway, Distributed Transactions  
-  🔗 Repo: https://github.com/satishlabs/order-service  
+  👉 Architecture Diagram: https://github.com/satishlabs/order-service/blob/main/docs/architecture.png
 
-- ☁️ **Cloud-Native Infrastructure**  
+- ☁️ **Cloud-Native Deployment**  
   AWS, Kubernetes, Terraform  
-  🔗 Repo: https://github.com/satishlabs/cloud-infra  
+  👉 Architecture Diagram: https://github.com/satishlabs/cloud-infra/blob/main/docs/deployment.png
 
-- 📊 **Observability Stack**  
-  OpenTelemetry, Metrics, Tracing  
-  🔗 Repo: https://github.com/satishlabs/observability
 
 
 ---
