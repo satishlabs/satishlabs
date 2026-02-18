@@ -72,10 +72,22 @@ I enjoy designing systems that scale, are observable, and are easy to maintain.
 ---
 
 ## 📌 Featured Work
-- 🔐 **Auth & Identity Services** – OAuth2, JWT, Redis, Spring Security  
-- 📦 **Microservices Platforms** – Kafka, API Gateway, Saga Pattern  
-- ☁️ **Cloud-Native Systems** – AWS, Kubernetes, Terraform  
-- 📊 **Observability & Performance** – OpenTelemetry, Metrics, Tracing  
+- 🔐 **Auth & Identity Services**  
+  OAuth2, JWT, Redis, Spring Security  
+  🔗 Repo: https://github.com/satishlabs/auth-service  
+
+- 📦 **Microservices Platform (Saga Pattern)**  
+  Kafka, API Gateway, Distributed Transactions  
+  🔗 Repo: https://github.com/satishlabs/order-service  
+
+- ☁️ **Cloud-Native Infrastructure**  
+  AWS, Kubernetes, Terraform  
+  🔗 Repo: https://github.com/satishlabs/cloud-infra  
+
+- 📊 **Observability Stack**  
+  OpenTelemetry, Metrics, Tracing  
+  🔗 Repo: https://github.com/satishlabs/observability
+
 
 ---
 
