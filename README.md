@@ -1,6 +1,6 @@
 # Hi 👋 I’m Satish Prasad  
 
-🚀 **Senior Java Backend Engineer | Cloud & Distributed Systems Architect**  
+🚀 **Senior Java Backend Engineer | Microservices | AWS | Kubernetes | Security**  
 💼 10+ years of experience building secure, scalable, high-performance systems  
 🌍 Bangalore, India  
 
